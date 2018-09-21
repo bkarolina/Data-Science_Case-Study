@@ -8,4 +8,4 @@ Firstly, I need to scrape webpage to get data, transofr data to desirable format
 
 Let's the journey begins!
 
-_(this will be updated as I move forward with the project)
+_(this will be updated as I move forward with the project)_
