@@ -1,4 +1,4 @@
-# Data-Science_Case-Study
+# Data-Science_Case-Study (_in progress_)
 Put all together that I learn about ML and learn even more.
 
 I decided to do a project here on Github adn try to demonstrate what I have/will have learned from Data Science so far.
